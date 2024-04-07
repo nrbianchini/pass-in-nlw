@@ -1,7 +1,7 @@
 # PASS-IN
 
 este projeto é uma aplicação de gerenciamento de participantes em eventos presenciais desenvolvida em java e faz parte **nlw da rocketseat.** 
-a ferramenta permite que o organizador cadastre um evento e abra uma página pública de inscrição, onde os participantes inscritos podem emitir uma credencial para check-in que seria apresentada no dia do evento.
+a ferramenta permite que o organizador cadastre um evento e abra uma página pública de inscrição, onde os participantes inscritos podem emitir uma credencial para check-in que será apresentada no dia do evento.
 
 
 # requisitos 
